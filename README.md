@@ -23,6 +23,7 @@ Estado atual do projeto (não é uma visualização final). / Actual project sta
 
 #### 2023-06-05
 - Descrição do projeto no README
+- Adição do componente Button
 
 
 #### 2023-05-26
