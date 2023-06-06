@@ -17,6 +17,7 @@ I started this project a few days ago and it will be updated periodicaly with th
 This repository is a part of the project, the client-side part. I'll be using React.js to build the frontend.
 
 <img src="thumb.png" alt="">
+Estado atual do projeto (não é uma visualização final). / Actual project state (not a final look).
 
 ## Changelog
 
