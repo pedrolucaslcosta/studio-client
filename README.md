@@ -1,6 +1,6 @@
 # studio-client
 
-
+<img src="thumb.png" alt="">
 
 ## Changelog
 #### 2023-05-26
